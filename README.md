@@ -1,12 +1,12 @@
 # My Course Portfolio
 
-Welcome to my academic portfolio for [Course Name]!
+Welcome to my academic portfolio for [Essential Tooling for Programmers]!
 
 ## About Me
-- Name: [Your Name]
-- Major: [Your Major]
-- Year: [Your Academic Year]
-- Favorite Programming Language: [Your Choice]
+- Name: [Sepanta Jazdarrehe]
+- Major: [Computer Programming]
+- Year: [2026]
+- Favorite Programming Language: [Python]
 
 ## Course Goals
 - [ ] Learn version control with Git and GitHub
